@@ -18,7 +18,7 @@ Sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
 4. Explore dashboards and insights
 
 ## Contributors
-- Your Name
+Tatoba Pandahre
 
 ## License
 MIT
