@@ -34,7 +34,7 @@ text
 ## Getting Started
 
 1. *Clone this repository:*
-git clone https://github.com/yourusername/food-management-system.git
+git clone https://github.com/TatobaPadhare33/Labmentix-Project/tree/main/Local%20Food%20Wastage%20Management%20System.git
 cd food-management-system
 
 text
